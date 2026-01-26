@@ -2,10 +2,10 @@ cask "toevent" do
   version "0.9.0"
   sha256 :no_check
 
-  url "https://github.com/Immedio/toevent/releases/download/v#{version}/ToEvent-#{version}.dmg"
+  url "https://github.com/rinkashimikito/toevent/releases/download/v#{version}/ToEvent-#{version}.dmg"
   name "ToEvent"
   desc "Menu bar app showing next calendar event with countdown"
-  homepage "https://github.com/Immedio/toevent"
+  homepage "https://github.com/rinkashimikito/toevent"
 
   depends_on macos: ">= :ventura"
 
