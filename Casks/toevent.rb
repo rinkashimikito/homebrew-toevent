@@ -1,5 +1,5 @@
 cask "toevent" do
-  version "0.9.1"
+  version "0.9.2"
   sha256 :no_check
 
   url "https://github.com/rinkashimikito/toevent/releases/download/v#{version}/ToEvent-#{version}.dmg"
